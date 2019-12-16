@@ -87,7 +87,7 @@ t++;
 	temp[t]='\0';
 int ans = substring(temp, str);
          if(ans == 1){
-           printf("\n%s", line);
+           printf("%s", line);
             i = 0;  
          }
       }
@@ -109,7 +109,7 @@ while ((read = getc(stdin)) != '\n' && read != ' ' && read!= '\t'){
 i = 0;
 int ans = similar(word,str, 1);
     if(ans ==1){
-	printf("\n%s", word);
+	printf("%s\n", word);
 	   }
 }
 }  
