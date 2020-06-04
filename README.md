@@ -10,7 +10,7 @@ from this place shift right elemnt.
 For example, if an array a consists of elements a={3,2,1}. then i=1 {2,3,1} i=2 {1,2,3} now the array is sorted.
 
 
-# part B- txtfind
+# Part B- txt find
 This C program 2 parts. receive from the user txt file in the text have a word and a collection of words. part A: print to screen The lines in which the word is contained. part B: The words in which the word is searched are similar.
 
 For example:
